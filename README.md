@@ -2,6 +2,10 @@
 
 `plugin.video.motogp` — Browse and play MotoGP, Moto2, and Moto3 races with your VideoPass subscription. Supports multiple camera feeds and up to 1080p@50fps via adaptive streaming.
 
+[![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?business=ypoulis%40gmail.com&currency_code=EUR)
+
+---
+
 ## Features
 
 - Browse all seasons back to 2012
@@ -51,3 +55,7 @@ The token is a JWT and the add-on will warn you when it expires.
 ## License
 
 MIT
+
+---
+
+[![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?business=ypoulis%40gmail.com&currency_code=EUR)
