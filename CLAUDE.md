@@ -14,7 +14,8 @@ KODI ADDON/
 │   ├── v1.0.7/       # current stable — frozen, do not edit
 │   └── *.zip         # release zips
 └── motogp/           # plugin.video.motogp
-    └── dev/          # active development
+    ├── dev/          # active development
+    └── v0.1.0/       # current stable — frozen, do not edit
 ```
 
 ## Workflow
@@ -56,12 +57,15 @@ KODI ADDON/
 ## MotoGP (plugin.video.motogp)
 
 ### Version management
+- **Stable**: `motogp/v0.1.0/` — frozen, do not edit
 - **Dev**: `motogp/dev/` — all changes happen here
-- No stable versions yet
 
 ### Addon locations
+- **Stable source**: `motogp/v0.1.0/plugin.video.motogp/`
+- **Stable zip**: `motogp/v0.1.0/plugin.video.motogp.zip`
 - **Dev source**: `motogp/dev/plugin.video.motogp/`
 - **Installed (local PC)**: `C:\Users\ypoul\AppData\Roaming\Kodi\addons\plugin.video.motogp\`
+- **Installed (LibreELEC)**: `root@192.168.1.35:/storage/.kodi/addons/plugin.video.motogp/`
 
 ---
 
