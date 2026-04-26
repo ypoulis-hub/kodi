@@ -8,6 +8,7 @@
 
 ## Features
 
+- **Live race streaming** — watch the current live broadcast (race, qualifying, practice, etc.) when an event is on
 - Browse all seasons back to 2012
 - Races, sprint races, qualifying sessions, practice sessions
 - Multiple camera feeds per session:
@@ -16,7 +17,7 @@
   - Helicopter camera
   - Onboard cameras 1–4
 - Video quality selection (1080p / 720p / 540p / 360p)
-- Adaptive DASH streaming via `inputstream.adaptive`
+- Adaptive streaming via `inputstream.adaptive` — DASH for VOD, HLS for live
 
 ## Requirements
 
@@ -26,7 +27,7 @@
 
 ## Installation
 
-1. Download the zip from the `v0.1.0/` folder
+1. Download the zip from the `v0.2.0/` folder
 2. In Kodi: **Settings → Add-ons → Install from zip file**
 3. Navigate to the downloaded zip and install
 4. Follow the authentication steps below
